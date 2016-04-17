@@ -1,0 +1,5 @@
+C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.csprojResolveAssemblyReference.cache
+C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.dll
+C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.pdb
+C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.dll
+C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.pdb
