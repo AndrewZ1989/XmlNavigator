@@ -4,7 +4,7 @@ using System.Xml;
 using XmlBig.Core.Factory;
 using XmlBig.Core.ObjectRepresentation;
 
-namespace XmlBig
+namespace XmlBig.Example
 {
 	public class TestXmlObject : XmlObject
 	{

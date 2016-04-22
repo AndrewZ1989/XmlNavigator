@@ -7,3 +7,8 @@ C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig\bin\De
 C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig\bin\Debug\XmlBig.Core.pdb
 C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\obj\Debug\XmlBig.exe
 C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\obj\Debug\XmlBig.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\bin\Debug\XmlBig.exe
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\bin\Debug\XmlBig.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\bin\Debug\XmlBig.Core.dll
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\bin\Debug\XmlBig.Core.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig\obj\Debug\XmlBig.csprojResolveAssemblyReference.cache

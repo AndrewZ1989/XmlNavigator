@@ -7,7 +7,7 @@
     <ProjectGuid>{2C86DCCE-E9E6-4735-88CF-1FCAF4F85D15}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XmlBig</RootNamespace>
+    <RootNamespace>XmlBig.Example</RootNamespace>
     <AssemblyName>XmlBig</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

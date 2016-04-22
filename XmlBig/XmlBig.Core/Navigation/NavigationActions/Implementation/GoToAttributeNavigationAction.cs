@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Xml;
+using XmlBig.Core.Navigation.Exceptions;
 
 namespace XmlBig.Core
 {
@@ -24,7 +25,7 @@ namespace XmlBig.Core
 
 		public XmlReader Execute( XmlReader reader )
 		{
-			if ( reader.MoveToAttribute( _attributeName ) == false ) throw new Exception( "Attribute with name <" + _attributeName + "> not found." );
+			if ( reader.MoveToAttribute( _attributeName ) == false ) throw new XmlNavigationException( "Attribute with name <" + _attributeName + "> not found." );
 
 			return reader;
 		}

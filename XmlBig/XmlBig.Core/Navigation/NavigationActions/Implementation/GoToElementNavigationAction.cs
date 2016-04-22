@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Xml;
+using XmlBig.Core.Navigation.Exceptions;
 
 namespace XmlBig.Core
 {
@@ -47,7 +48,7 @@ namespace XmlBig.Core
 
 			#endregion
 
-			if ( elementsCount != _elementPosition ) throw new Exception( "Element with name <" + _elementName + "> not found.");
+			if ( elementsCount != _elementPosition ) throw new XmlNavigationException( "Element with name <" + _elementName + "> not found.");
 
 			return reader;
 		}

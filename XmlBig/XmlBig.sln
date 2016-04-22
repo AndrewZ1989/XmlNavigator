@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlBig", "XmlBig\XmlBig.csproj", "{2C86DCCE-E9E6-4735-88CF-1FCAF4F85D15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlBig.Example", "XmlBig\XmlBig.Example.csproj", "{2C86DCCE-E9E6-4735-88CF-1FCAF4F85D15}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlBig.Core", "XmlBig.Core\XmlBig.Core.csproj", "{0C32E728-CD64-4E15-B3C6-103085D1BF4C}"
 EndProject

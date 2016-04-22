@@ -3,3 +3,8 @@ C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\b
 C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.pdb
 C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.dll
 C:\Users\Андрец\documents\visual studio 2013\Projects\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.csprojResolveAssemblyReference.cache
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.dll
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.dll
+C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.pdb

@@ -1,8 +1,9 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Xml;
 using XmlBig.Core.Factory;
 
-namespace XmlBig
+namespace XmlBig.Example
 {
 
 	class Program
@@ -13,7 +14,7 @@ namespace XmlBig
 			settings.ConformanceLevel = ConformanceLevel.Fragment;
 			settings.IgnoreWhitespace = true;
 
-			using ( var fs = File.OpenRead( @"C:\Users\Андрец\Desktop\1.xml" ) )
+			using ( var fs = File.OpenRead( @"C:\Sample.xml" ) )
 			{
 				var test = new TestXmlObject( fs, settings, new NavigationActionFactory() );
 

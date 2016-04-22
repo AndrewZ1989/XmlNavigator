@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="Navigation\Builder\INavigationActionBuilder.cs" />
     <Compile Include="Navigation\Builder\NavigationActionBuilder.cs" />
+    <Compile Include="Navigation\Exceptions\XmlNavigationException.cs" />
     <Compile Include="Navigation\Factory\INavigationActionFactory.cs" />
     <Compile Include="Navigation\Factory\NavigationActionFactory.cs" />
     <Compile Include="Navigation\NavigationActions\Implementation\CompositeNavigationAction.cs" />
