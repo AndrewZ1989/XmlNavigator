@@ -8,3 +8,8 @@ C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\obj\Debug\Xml
 C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.pdb
 C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.dll
 C:\Users\Андрец\Source\Repos\XmlNavigator\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator3\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.dll
+C:\Users\Андрец\Source\Repos\XmlNavigator3\XmlBig\XmlBig.Core\bin\Debug\XmlBig.Core.pdb
+C:\Users\Андрец\Source\Repos\XmlNavigator3\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.csprojResolveAssemblyReference.cache
+C:\Users\Андрец\Source\Repos\XmlNavigator3\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.dll
+C:\Users\Андрец\Source\Repos\XmlNavigator3\XmlBig\XmlBig.Core\obj\Debug\XmlBig.Core.pdb

@@ -40,10 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BXmlObject.cs" />
+    <Compile Include="XmlObjects\InnerFoo.cs" />
+    <Compile Include="XmlObjects\Foo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestXmlObject.cs" />
+    <Compile Include="XmlObjects\Xml.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XmlBig.Core\XmlBig.Core.csproj">
